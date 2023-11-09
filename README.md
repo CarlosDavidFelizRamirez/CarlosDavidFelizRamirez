@@ -1,2 +1,2 @@
 ### Developer Java and entrepreneur
-*Developer Special Java and Python*
+*FullStack Developer especially in Java and Python*
