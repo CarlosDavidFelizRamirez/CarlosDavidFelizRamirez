@@ -1,4 +1,4 @@
 ### Software Engineer
 - Language
--* C
+- *C
 -* Python
