@@ -1,2 +1,4 @@
-### Full Stack Developer
-*Especially in Java and Python*
+### Software Engineer
+- Language
+- *C
+- * Python
