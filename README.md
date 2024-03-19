@@ -1,4 +1,9 @@
 ### Software Engineer
-- Language
-- *C
--* Python
+## Language
+- C
+- C++
+- Python
+- Java
+## Framework
+- Spring-Boot
+- AngularJS
