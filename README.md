@@ -8,6 +8,7 @@ Aquí hay una lista de lenguajes de programación con los que tengo experiencia 
 - `C++`: Desarrollo de software de alto rendimiento y aplicaciones con requisitos de eficiencia crítica.
 - `Python`: Amplia experiencia en desarrollo de back-end, scripts de automatización y análisis de datos.
 - `Java`: Desarrollo de aplicaciones empresariales, APIs y servicios web.
+- `TypeScript`: Para el Desarrollo web de manera Robusta
 
 ## 🖥️ Frameworks
 
