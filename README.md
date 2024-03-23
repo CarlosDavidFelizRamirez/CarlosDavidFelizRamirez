@@ -21,7 +21,7 @@ He trabajado con varios frameworks para el desarrollo de aplicaciones web y serv
 
 (Aquí puedes añadir enlaces a algunos de tus proyectos destacados, por ejemplo:)
 
-- [BiteBooking](URL-del-proyecto) - Web Especial, En Construccion.
+- [BiteBooking](URL-del-proyecto) - Web Especial, En Construccion....
 - [Libft](https://github.com/CarlosDavidFelizRamirez/Libft42) - Libreria de Funciones standard C. estas funciones estan diseñadas y mejoradas para un mejor rendimiento!, a diferencia de las originales
 
 ## 📫 Cómo Contactarme
