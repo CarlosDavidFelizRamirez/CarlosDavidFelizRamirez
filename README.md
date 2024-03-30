@@ -1,32 +1,33 @@
-Bienvenido a mi perfil de GitHub! Soy Carlos! apasionado por la creación y el desarrollo de software eficiente y escalable. Aquí encontrarás proyectos que he desarrollado o contribuido, utilizando una variedad de lenguajes de programación y frameworks.
+Welcome to my GitHub profile! I'm Carlos! Passionate about creating and developing efficient and scalable software. Here, you will find projects that I have developed or contributed to, using a variety of programming languages and frameworks.
 
-## 🛠 Lenguajes de Programación
+## 🛠 Programming Languages
+Here is a list of programming languages I have experience with and feel comfortable working in:
 
-Aquí hay una lista de lenguajes de programación con los que tengo experiencia y me siento cómodo trabajando:
+- `C`: Experience in embedded systems development and low-level applications.
 
-- `C`: Experiencia en desarrollo de sistemas embebidos y aplicaciones de bajo nivel.
-- `C++`: Desarrollo de software de alto rendimiento y aplicaciones con requisitos de eficiencia crítica.
-- `Python`: Amplia experiencia en desarrollo de back-end, scripts de automatización y análisis de datos.
-- `Java`: Desarrollo de aplicaciones empresariales, APIs y servicios web.
-- `TypeScript`: Para el Desarrollo web de manera Robusta
+- `C++`: Development of high-performance software and applications with critical efficiency requirements.
 
+- `Python`: Extensive experience in back-end development, automation scripts, and data analysis.
+
+- `Java`: Development of enterprise applications, APIs, and web services.
+
+- `TypeScript`: For robust web development.
 ## 🖥️ Frameworks
+I have worked with various frameworks for the development of web applications and services, including:
 
-He trabajado con varios frameworks para el desarrollo de aplicaciones web y servicios, incluyendo:
+Spring Boot: Creation of microservices and robust, scalable web applications.
 
-- **Spring Boot**: Creación de microservicios y aplicaciones web robustas y escalables.
-- **AngularJS**: Desarrollo de aplicaciones de página única (SPA) dinámicas y responsivas.
+AngularJS: Development of dynamic and responsive single-page applications (SPAs).
+## 📂 Featured Projects
 
-## 📂 Proyectos Destacados
+- [BiteBooking](URL-del-proyecto) - Special Web, Under Construction...
 
-- [BiteBooking](URL-del-proyecto) - Web Especial, En Construccion....
-- [Libft](https://github.com/CarlosDavidFelizRamirez/Libft42) - Libreria de Funciones standard C. estas funciones estan diseñadas y mejoradas para un mejor rendimiento!, a diferencia de las originales
-
-## 📫 Cómo Contactarme
-
-¡Me encantaría conectar contigo! Puedes encontrarme y contactarme a través de:
+- [Libft](https://github.com/CarlosDavidFelizRamirez/Libft42). These functions are designed and enhanced for better performance, unlike the original ones.
+📫 How to Contact Me
+I would love to connect with you! You can find and contact me through:
 
 - LinkedIn: [Carlos David Feliz Ramirez](https://www.linkedin.com/in/carlos-david-f%C3%A9liz-ram%C3%ADrez-99220a184/?trk=public-profile-join-page)
-- Email: Carlos.felizRamirez.3@gmail.com
 
-¡Gracias por visitar mi perfil!
+Email: Carlos.felizRamirez.3@gmail.com
+
+Thank you for visiting my profile!
