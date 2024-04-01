@@ -13,7 +13,7 @@ Here is a list of programming languages I have experience with and feel comforta
 
 - `TypeScript`: For robust web development.
 ## 🖥️ Frameworks
-I have worked with various frameworks for the development of web applications and services, including:
+I have worked with two frameworks for the development of web applications and services:
 
 Spring Boot: Creation of microservices and robust, scalable web applications.
 
