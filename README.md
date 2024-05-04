@@ -1,6 +1,6 @@
 Welcome to my GitHub profile! I'm Carlos! Passionate about creating and developing efficient and scalable software. Here, you will find projects that I have developed or contributed to, using a variety of programming languages and frameworks.
 
-## 🛠 Programming Languages and Frameworks
+## 🛠 Languages, Frameworks and Tools
 Here is a list of programming languages I have experience with and feel comfortable working in:
 <div align="left" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2a5f3d7d3c13f5a8dd5b4e722066f209216e3fbf61e79fc68e2bc10cad8ca379/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/2a5f3d7d3c13f5a8dd5b4e722066f209216e3fbf61e79fc68e2bc10cad8ca379/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e67756c61726a732f616e67756c61726a732d6f726967696e616c2e737667" height="40" alt="angularjs logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="max-width: 100%;"></a>
