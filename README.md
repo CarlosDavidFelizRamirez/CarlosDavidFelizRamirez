@@ -40,14 +40,8 @@ Here is a list of programming languages I have experience with and feel comforta
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" height="40" alt="vscode logo" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
 </div>
 
-## 📂 Featured Projects
 
-- [BiteBooking](https://github.com/CarlosDavidFelizRamirez/Bitebooking-frontend) - Special Web, Under Construction...
-
-- [Libft](https://github.com/CarlosDavidFelizRamirez/Libft42), [Printf](https://github.com/CarlosDavidFelizRamirez/Library-C-Printf). These functions are designed and enhanced for better performance, unlike the original ones.
-📫 How to Contact Me
-I would love to connect with you! You can find and contact me through:
-
+- My Portafolio: [Carlos David Feliz Ramirez](carlos-david-feliz-ramirez-github-io.vercel.app)
 - LinkedIn: [Carlos David Feliz Ramirez](https://www.linkedin.com/in/carlos-david-f%C3%A9liz-ram%C3%ADrez-99220a184/?trk=public-profile-join-page)
 
 Email: Carlos.felizRamirez.3@gmail.com
